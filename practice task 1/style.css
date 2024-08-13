@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+    h3{
+        font-family: "Space Grotesk", sans-serif;
+        font-weight: 700;
+        color: #FFFFFF;
+        padding-bottom: 10px;
+    }
+#mintyfresh {
+    text-align: center;
+}
+#mainHeader {
+    color:#836FFF;
+    font-weight: 700;
+    margin-bottom: 20px;
+
+}
+.siteTitle{
+    color:#211951;
+    font-weight: 700;
+}
+#marshmallow{
+    background-color: #522258;
+    color: rgb(243, 237, 237);
+    width:auto;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+#chocolatedrip{
+    background-color: #211951;
+    color: rgb(243, 237, 237);
+    width:auto;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 5px;
+}
+#cottoncandy{
+    background-color: #C63C51;
+    color: rgb(243, 237, 237);
+    width:auto;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 5px;
+}
