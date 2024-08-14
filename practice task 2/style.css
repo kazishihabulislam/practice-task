@@ -3,6 +3,7 @@
     margin: 0;
     box-sizing: border-box;
 }
+/*?  Apply CSS styles to change the text color, alignment, font size, font family & font style for different elements. */
 #responsive{
     background-color: #0C0C0C;
     padding: 40px;
@@ -15,7 +16,7 @@
     -o-border-radius: 5px;
 }
 #main-content{
-    text-align: center;;
+    text-align: center;
 }
 
 #main-header{
@@ -62,7 +63,7 @@
     text-align: left;
     font-size: 19px;
     font-weight: 600;
-    margin-top: 10px;;
+    margin-top: 10px;
     margin-left: 35px;
     padding: 5px;
     font-family: Arial, Helvetica, sans-serif;
