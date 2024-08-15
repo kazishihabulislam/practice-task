@@ -1,0 +1,77 @@
+/* Styling for the body */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+#main-heading{
+    text-align: center;
+    color:#836FFF;
+    font-size: 36px;
+    font-weight: 700;
+    margin-top: 20px;
+    padding-top: 10px;
+}
+
+/* General container styling */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Styling for the header */
+.header {
+    color: #000;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Styling for sections */
+.section {
+    background-color: white;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 10px;
+    border: 3px solid #cccccc; /* Different border color and width */
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.1); /* Added box-shadow */
+}
+
+/* Image styling */
+.image-container img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    border: 5px solid #e0e0e0; /* Image border */
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.15); /* Image box-shadow */
+}
+
+/* Styling for paragraphs */
+.section p {
+    border: 2px solid #dcdcdc; /* Paragraph border */
+    padding: 15px;
+    border-radius: 5px; /* Border radius for paragraphs */
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* Paragraph box-shadow */
+}
+
+/* Footer styling */
+.footer {
+    background-color: #333;
+    padding: 10px;
+    margin: 0;
+    border: 3px solid #000;
+    border-radius:5px;
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    -ms-border-radius:5px;
+    -o-border-radius:5px;
+}
+.footer p{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    margin: 0;
+    padding: 60px;
+}
