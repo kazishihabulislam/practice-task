@@ -32,7 +32,7 @@ body {
 .section {
     background-color: white;
     padding: 20px;
-    margin: 20px 0;
+    margin: 20px 0px;
     border-radius: 10px;
     border: 3px solid #cccccc; /* Different border color and width */
     box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.1); /* Added box-shadow */
